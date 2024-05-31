@@ -1,2 +1,2 @@
 # juego-simon-dice
-<a href="https://danniel917.github.io/juego-simon-dice/">App here.</a>
+<a href="https://danniel917.github.io/js-simon-dice/">Watch Project</a>
